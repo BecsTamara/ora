@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TdlQAO6TOk7sMAjnTTJEZffvd9b5OtKC5j0NtM/utHonZlla0jULqxuR12zuYDgXt1bL/Jjjoa/7c3oxRXBkxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabor.varga\\source\\repos\\DigitalClock\\DigitalClock\\DigitalClock.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabor.varga\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.4\\microsoft.netcore.app.host.win-x64.5.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

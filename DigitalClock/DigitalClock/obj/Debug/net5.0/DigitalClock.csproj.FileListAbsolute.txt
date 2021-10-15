@@ -1,0 +1,16 @@
+C:\Users\gabor.varga\source\repos\DigitalClock\DigitalClock\bin\Debug\net5.0\DigitalClock.exe
+C:\Users\gabor.varga\source\repos\DigitalClock\DigitalClock\bin\Debug\net5.0\DigitalClock.deps.json
+C:\Users\gabor.varga\source\repos\DigitalClock\DigitalClock\bin\Debug\net5.0\DigitalClock.runtimeconfig.json
+C:\Users\gabor.varga\source\repos\DigitalClock\DigitalClock\bin\Debug\net5.0\DigitalClock.runtimeconfig.dev.json
+C:\Users\gabor.varga\source\repos\DigitalClock\DigitalClock\bin\Debug\net5.0\DigitalClock.dll
+C:\Users\gabor.varga\source\repos\DigitalClock\DigitalClock\bin\Debug\net5.0\ref\DigitalClock.dll
+C:\Users\gabor.varga\source\repos\DigitalClock\DigitalClock\bin\Debug\net5.0\DigitalClock.pdb
+C:\Users\gabor.varga\source\repos\DigitalClock\DigitalClock\obj\Debug\net5.0\DigitalClock.csproj.AssemblyReference.cache
+C:\Users\gabor.varga\source\repos\DigitalClock\DigitalClock\obj\Debug\net5.0\DigitalClock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabor.varga\source\repos\DigitalClock\DigitalClock\obj\Debug\net5.0\DigitalClock.AssemblyInfoInputs.cache
+C:\Users\gabor.varga\source\repos\DigitalClock\DigitalClock\obj\Debug\net5.0\DigitalClock.AssemblyInfo.cs
+C:\Users\gabor.varga\source\repos\DigitalClock\DigitalClock\obj\Debug\net5.0\DigitalClock.csproj.CoreCompileInputs.cache
+C:\Users\gabor.varga\source\repos\DigitalClock\DigitalClock\obj\Debug\net5.0\DigitalClock.dll
+C:\Users\gabor.varga\source\repos\DigitalClock\DigitalClock\obj\Debug\net5.0\ref\DigitalClock.dll
+C:\Users\gabor.varga\source\repos\DigitalClock\DigitalClock\obj\Debug\net5.0\DigitalClock.pdb
+C:\Users\gabor.varga\source\repos\DigitalClock\DigitalClock\obj\Debug\net5.0\DigitalClock.genruntimeconfig.cache

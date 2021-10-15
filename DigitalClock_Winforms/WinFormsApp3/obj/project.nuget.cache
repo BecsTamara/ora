@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vecaed7ICNx4fubF0YLl+K0HDgS1kY/oNTr24Zyg2++IbRVa9/KdgPlv3Nfve6DJE5jdYvrJ0aXOAshJF9zXKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabor.varga\\source\\repos\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabor.varga\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.4\\microsoft.netcore.app.host.win-x64.5.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
